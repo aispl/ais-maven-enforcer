@@ -11,7 +11,7 @@
     <groupId>pl.ais.maven</groupId>
     <artifactId>ais-enforcer-rules</artifactId>
     <packaging>jar</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <name>Rules for Maven Enforcer</name>
     <url>https://github.com/aispl/ais-maven-enforcer</url>
 
