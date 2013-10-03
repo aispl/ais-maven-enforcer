@@ -6,9 +6,9 @@ Rules for maven-enforcer-plugin
 DependencyGroupVersionCheck
 ---------------------------
 
-Verify, that dependencies sharing the same 'groupId' share the same 'version'.
+Verify, that dependencies sharing the same `groupId` share the same `version`.
 
-Example: making sure, that all 'org.springframework' dependencies are defined with the same version:
+Example: making sure, that all `org.springframework` dependencies are defined with the same version:
 
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -51,5 +51,4 @@ Rule checks, if there's the same version within a group, so with multiple groups
       </dependencyGroupVersionCheck>
     </rules>
 
-'org.springframework' and 'org.slf4j' will be checked independently.
-
+`org.springframework` and `org.slf4j` will be checked independently.
