@@ -1,7 +1,8 @@
 ais-maven-enforcer
 ==================
 
-Rules for maven-enforcer-plugin
+Rules for [Maven Enforcer Plugin](http://maven.apache.org/enforcer/maven-enforcer-plugin/).
+JAR file is available in [Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cais-enforcer-rules)
 
 DependencyGroupVersionCheck
 ---------------------------
