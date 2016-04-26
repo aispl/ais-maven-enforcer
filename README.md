@@ -17,7 +17,7 @@ Example: making sure, that all `org.springframework` dependencies are defined wi
       <version>1.3.1</version>
       <executions>
         <execution>
-          <id>enforce-spring/id>
+          <id>enforce-spring</id>
           <goals>
             <goal>enforce</goal>
           </goals>
